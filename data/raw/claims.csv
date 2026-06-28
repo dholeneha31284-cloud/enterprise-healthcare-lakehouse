@@ -1,0 +1,11 @@
+claim_id,patient_id,patient_name,diagnosis,hospital,claim_amount,claim_date
+C001,P101,Rajesh Kumar,Diabetes,Apollo,12000,2026-06-01
+C002,P102,Priya Sharma,Hypertension,Fortis,8000,2026-06-02
+C003,P103,Amit Verma,Asthma,Max,6000,2026-06-03
+C004,P104,Neha Singh,Diabetes,Apollo,15000,2026-06-04
+C005,P105,Rohan Patel,Heart Disease,Medanta,50000,2026-06-05
+C006,P106,Anjali Gupta,Asthma,Fortis,7000,2026-06-06
+C007,P107,Vikram Rao,Cancer,Apollo,120000,2026-06-07
+C008,P108,Sneha Iyer,Diabetes,Max,11000,2026-06-08
+C009,P109,Rahul Joshi,Hypertension,Medanta,9500,2026-06-09
+C010,P110,Kavita Desai,Asthma,Apollo,6500,2026-06-10

@@ -1,0 +1,39 @@
+2026-06-28 13:08:00,726 | INFO | __main__ | Pipeline Started
+2026-06-28 13:08:00,726 | WARNING | __main__ | This is a warning.
+2026-06-28 13:08:00,726 | ERROR | __main__ | This is an error.
+2026-06-28 13:11:19,474 | INFO | src.spark.spark_session | Creating Spark Session...
+2026-06-28 13:11:27,427 | INFO | src.spark.spark_session | Spark Session Created Successfully
+2026-06-28 13:29:17,922 | INFO | src.bronze.bronze_loader | Starting Bronze Layer Ingestion
+2026-06-28 13:29:17,922 | INFO | src.spark.spark_session | Creating Spark Session...
+2026-06-28 13:29:22,151 | INFO | src.spark.spark_session | Spark Session Created Successfully
+2026-06-28 13:29:22,151 | INFO | src.ingestion.file_reader | Reading CSV: C:\Users\Dr. Neha Dhole\enterprise-databricks-pipeline\data\raw\claims.csv
+2026-06-28 13:29:24,706 | INFO | src.ingestion.file_reader | Rows Loaded: 10
+2026-06-28 13:29:24,736 | INFO | src.bronze.bronze_loader | Bronze Data Preview
+2026-06-28 13:32:09,952 | INFO | src.bronze.bronze_loader | Starting Bronze Layer Ingestion
+2026-06-28 13:32:09,952 | INFO | src.spark.spark_session | Creating Spark Session...
+2026-06-28 13:32:14,123 | INFO | src.spark.spark_session | Spark Session Created Successfully
+2026-06-28 13:32:14,123 | INFO | src.ingestion.file_reader | Reading CSV: C:\Users\Dr. Neha Dhole\enterprise-databricks-pipeline\data\raw\claims.csv
+2026-06-28 13:32:16,335 | INFO | src.ingestion.file_reader | Rows Loaded: 10
+2026-06-28 13:32:16,360 | INFO | src.bronze.bronze_loader | Writing Bronze Data...
+2026-06-28 13:34:27,317 | INFO | src.bronze.bronze_loader | Starting Bronze Layer Ingestion
+2026-06-28 13:34:27,317 | INFO | src.spark.spark_session | Creating Spark Session...
+2026-06-28 13:34:31,511 | INFO | src.spark.spark_session | Spark Session Created Successfully
+2026-06-28 13:34:31,511 | INFO | src.ingestion.file_reader | Reading CSV: C:\Users\Dr. Neha Dhole\enterprise-databricks-pipeline\data\raw\claims.csv
+2026-06-28 13:34:33,899 | INFO | src.ingestion.file_reader | Rows Loaded: 10
+2026-06-28 13:34:33,931 | INFO | src.bronze.bronze_loader | Bronze Data Preview
+2026-06-28 13:37:29,983 | INFO | src.bronze.bronze_loader | Starting Bronze Layer Ingestion
+2026-06-28 13:37:29,983 | INFO | src.spark.spark_session | Creating Spark Session...
+2026-06-28 13:37:34,269 | INFO | src.spark.spark_session | Spark Session Created Successfully
+2026-06-28 13:37:34,269 | INFO | src.ingestion.file_reader | Reading CSV: C:\Users\Dr. Neha Dhole\enterprise-databricks-pipeline\data\raw\claims.csv
+2026-06-28 13:37:36,492 | INFO | src.ingestion.file_reader | Rows Loaded: 10
+2026-06-28 13:37:36,520 | INFO | src.bronze.bronze_loader | Bronze Data Preview
+2026-06-28 13:37:36,712 | INFO | src.validation.validator | Running Data Validation
+2026-06-28 13:41:17,361 | INFO | src.bronze.bronze_loader | Starting Bronze Layer Ingestion
+2026-06-28 13:41:17,361 | INFO | src.spark.spark_session | Creating Spark Session...
+2026-06-28 13:41:21,525 | INFO | src.spark.spark_session | Spark Session Created Successfully
+2026-06-28 13:41:21,525 | INFO | src.ingestion.file_reader | Reading CSV: C:\Users\Dr. Neha Dhole\enterprise-databricks-pipeline\data\raw\claims.csv
+2026-06-28 13:41:23,742 | INFO | src.ingestion.file_reader | Rows Loaded: 10
+2026-06-28 13:41:23,773 | INFO | src.bronze.bronze_loader | Bronze Data Preview
+2026-06-28 13:41:23,945 | INFO | src.validation.validator | Running Data Validation...
+2026-06-28 13:41:24,468 | INFO | src.validation.validator | Valid Records   : 10
+2026-06-28 13:41:24,468 | INFO | src.validation.validator | Invalid Records : 0
