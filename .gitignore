@@ -1,55 +1,29 @@
-# ================================
+# Virtual Environment
+.venv/
+
 # Python
-# ================================
 __pycache__/
 *.py[cod]
 *.pyo
-*.pyd
-*.egg-info/
 
-# ================================
-# Virtual Environments
-# ================================
-.venv/
-venv/
-env/
+# Spark
+metastore_db/
+spark-warehouse/
 
-# ================================
-# VS Code / IDE
-# ================================
-.vscode/
-.idea/
-
-# ================================
-# Jupyter
-# ================================
-.ipynb_checkpoints/
-
-# ================================
-# Pytest
-# ================================
-.pytest_cache/
-.coverage
-htmlcov/
-
-# ================================
 # Logs
-# ================================
 logs/
 *.log
 
-# ================================
-# Spark
-# ================================
-spark-warehouse/
+# VS Code
+.vscode/
 
-# ================================
-# Environment Variables
-# ================================
-.env
+# Pytest
+.pytest_cache/
 
-# ================================
-# OS Files
-# ================================
+# Coverage
+.coverage
+htmlcov/
+
+# OS
 .DS_Store
 Thumbs.db
