@@ -37,3 +37,12 @@
 2026-06-28 13:41:23,945 | INFO | src.validation.validator | Running Data Validation...
 2026-06-28 13:41:24,468 | INFO | src.validation.validator | Valid Records   : 10
 2026-06-28 13:41:24,468 | INFO | src.validation.validator | Invalid Records : 0
+2026-06-28 14:10:58,420 | INFO | src.bronze.bronze_loader | Starting Bronze Layer Ingestion
+2026-06-28 14:10:58,420 | INFO | src.spark.spark_session | Creating Spark Session...
+2026-06-28 14:11:02,781 | INFO | src.spark.spark_session | Spark Session Created Successfully
+2026-06-28 14:11:02,781 | INFO | src.ingestion.file_reader | Reading CSV: C:\Users\Dr. Neha Dhole\enterprise-databricks-pipeline\data\raw\claims.csv
+2026-06-28 14:11:05,069 | INFO | src.ingestion.file_reader | Rows Loaded: 10
+2026-06-28 14:11:05,099 | INFO | src.bronze.bronze_loader | Bronze Data Preview
+2026-06-28 14:11:05,273 | INFO | src.validation.validator | Running Data Validation...
+2026-06-28 14:11:05,754 | INFO | src.validation.validator | Valid Records   : 10
+2026-06-28 14:11:05,754 | INFO | src.validation.validator | Invalid Records : 0
