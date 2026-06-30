@@ -1,0 +1,13 @@
+# Core Data Engineering
+pyspark==4.1.1
+delta-spark==4.0.0
+
+# Testing
+pytest==9.1.1
+
+# Data Processing
+pandas>=2.2.0
+
+# Jupyter (optional for local development)
+jupyter
+ipykernel
