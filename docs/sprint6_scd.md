@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sprint 6 – Slowly Changing Dimensions (SCD)
 
 ## Objective
@@ -327,3 +328,6 @@ Successfully implemented:
 - Enterprise Customer Dimension
 
 These are core concepts frequently evaluated in Data Engineering and Databricks interviews.
+=======
+
+>>>>>>> 00e3d0aeaf041ea298c332a671f20f541405ec6d
