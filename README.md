@@ -104,25 +104,7 @@ enterprise-healthcare-lakehouse/
 
 ---
 
-# 🧪 Running Tests
-
-Run all tests:
-
-```bash
-pytest -v
-```
-
-Run Silver Layer tests:
-
-```bash
-pytest tests/test_silver.py -v
-```
-
----
-
-
-
-# 📈 Sprint Progress
+#📈 Sprint Progress
 
 | Sprint | Status |
 |---------|--------|
